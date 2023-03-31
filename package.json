@@ -1,0 +1,18 @@
+{
+  "name": "rotten-tomatoes-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.2.6",
+    "cheerio": "^1.0.0-rc.12",
+    "express": "^4.18.2",
+    "i": "^0.3.7",
+    "nodemon": "^2.0.13"
+  }
+}
